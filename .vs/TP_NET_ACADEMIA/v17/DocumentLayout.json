@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\morak\\OneDrive\\Escritorio\\IDE\\TPI\\TP_NET_ACADEMIA\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9964EF5E-384E-42C0-97DC-09880B3A5020}|form_main\\form_main.csproj|c:\\users\\maste\\desktop\\repos\\tpi-academia\\form_main\\form_main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9964EF5E-384E-42C0-97DC-09880B3A5020}|form_main\\form_main.csproj|solutionrelative:form_main\\form_main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECD51AA-30CE-4076-B9DE-6F013D492BE2}|Domain\\Domain.csproj|c:\\users\\maste\\desktop\\repos\\tpi-academia\\domain\\model\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECD51AA-30CE-4076-B9DE-6F013D492BE2}|Domain\\Domain.csproj|solutionrelative:domain\\model\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECD51AA-30CE-4076-B9DE-6F013D492BE2}|Domain\\Domain.csproj|c:\\users\\maste\\desktop\\repos\\tpi-academia\\domain\\personacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECD51AA-30CE-4076-B9DE-6F013D492BE2}|Domain\\Domain.csproj|solutionrelative:domain\\personacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECD51AA-30CE-4076-B9DE-6F013D492BE2}|Domain\\Domain.csproj|c:\\users\\maste\\desktop\\repos\\tpi-academia\\domain\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECD51AA-30CE-4076-B9DE-6F013D492BE2}|Domain\\Domain.csproj|solutionrelative:domain\\services\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964EF5E-384E-42C0-97DC-09880B3A5020}|form_main\\form_main.csproj|c:\\users\\maste\\desktop\\repos\\tpi-academia\\form_main\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9964EF5E-384E-42C0-97DC-09880B3A5020}|form_main\\form_main.csproj|solutionrelative:form_main\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964EF5E-384E-42C0-97DC-09880B3A5020}|form_main\\form_main.csproj|c:\\users\\maste\\desktop\\repos\\tpi-academia\\form_main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9964EF5E-384E-42C0-97DC-09880B3A5020}|form_main\\form_main.csproj|solutionrelative:form_main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964EF5E-384E-42C0-97DC-09880B3A5020}|form_main\\form_main.csproj|c:\\users\\maste\\desktop\\repos\\tpi-academia\\form_main\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9964EF5E-384E-42C0-97DC-09880B3A5020}|form_main\\form_main.csproj|solutionrelative:form_main\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,31 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "form_main",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\form_main\\form_main.csproj",
+              "RelativeDocumentMoniker": "form_main\\form_main.csproj",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\form_main\\form_main.csproj",
+              "RelativeToolTip": "form_main\\form_main.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T20:10:07.015Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\Domain\\Services\\PersonaService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\PersonaService.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\Domain\\Services\\PersonaService.cs",
+              "RelativeToolTip": "Domain\\Services\\PersonaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:19:13.321Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\Domain\\Model\\Persona.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Persona.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\Domain\\Model\\Persona.cs",
+              "RelativeToolTip": "Domain\\Model\\Persona.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:14:38.955Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaContext.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\Domain\\PersonaContext.cs",
+              "RelativeDocumentMoniker": "Domain\\PersonaContext.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\Domain\\PersonaContext.cs",
+              "RelativeToolTip": "Domain\\PersonaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:14:10.074Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\form_main\\Form2.cs",
+              "RelativeDocumentMoniker": "form_main\\Form2.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\form_main\\Form2.cs [Design]",
+              "RelativeToolTip": "form_main\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:11:08.53Z",
+              "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\form_main\\Form3.cs",
+              "RelativeDocumentMoniker": "form_main\\Form3.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\form_main\\Form3.cs [Design]",
+              "RelativeToolTip": "form_main\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:09:48.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\form_main\\Form1.cs",
+              "RelativeDocumentMoniker": "form_main\\Form1.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\Repos\\TPI-Academia\\form_main\\Form1.cs [Design]",
+              "RelativeToolTip": "form_main\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:08:42.585Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
